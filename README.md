@@ -45,5 +45,4 @@ To capture and analyze live network traffic using **Wireshark**, identify differ
 ## 📁 Files Included
 - `task5_capture.pcap` — captured packets file  
 - `README.md` — this report  
-- *(Optional)* Screenshots folder with filtered packet views  
 > 🧩 *Simple observation can reveal complex network behavior — Wireshark makes it visible.*
